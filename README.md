@@ -32,7 +32,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://geonode.org/" target="_blank"> <img src="https://docs.geonode.org/en/master/_images/geonode.png" alt="jenkins" width="48" height="48"/> </a> 
     <a href="http://geoserver.org/" target="_blank"> <img src="https://www.quadratic.be/wp-content/uploads/2020/05/geoserver-300x300.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="express" width="40" height="40"/> </a>
 </p>
