@@ -28,8 +28,6 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro" target="_blank"> <img src="https://www.eagleview.com/wp-content/uploads/2017/03/arcgis-pro.png?w=986 alt="ArcGIS Pro" width="45" height="45"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://geonode.org/" target="_blank"> <img src="https://docs.geonode.org/en/master/_images/geonode.png" alt="jenkins" width="60" height="48"/> </a> 
     <a href="http://geoserver.org/" target="_blank"> <img src="https://www.quadratic.be/wp-content/uploads/2020/05/geoserver-300x300.png" alt="express" width="60" height="50"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="express" width="40" height="40"/> </a>
