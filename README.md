@@ -21,12 +21,12 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://openlayers.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenLayers_logo.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.esri.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIs" width="48" height="48"/> </a>
+    <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro" target="_blank"> <img src="https://www.farmingdale.edu/information-technology/software/images/arcgispro.png"ArcGIS Pro" width="45" height="45"/> </a> 
+    <a href="https://openlayers.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenLayers_logo.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro" target="_blank"> <img src="https://www.farmingdale.edu/information-technology/software/images/arcgispro.png"ArcGIS Pro" width="45" height="45"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://geonode.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132843?s=200&v=4" width="40" height="40"/> </a> 
     <a href="http://geoserver.org/" target="_blank"> <img src="https://www.quadratic.be/wp-content/uploads/2020/05/geoserver-300x300.png" alt="express" width="60" height="50"/> </a>
