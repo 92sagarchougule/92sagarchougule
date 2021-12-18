@@ -23,6 +23,7 @@
 <p align="left"> 
     <a href="https://www.esri.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIs" width="48" height="48"/> </a>
     <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro" target="_blank"> <img src="https://www.farmingdale.edu/information-technology/software/images/arcgispro.png"ArcGIS Pro" width="45" height="45"/> </a> 
+         <a href="https://www.qgis.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="express" width="40" height="40"/> </a>
         <a href="https://www.autodesk.in/" target="_blank"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis=s360-rw" alt="express" width="40" height="40"/> </a>
          <a href="https://www.safe.com/" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/ed/eddb6ac925e4c6768a9382e21206ec8d.jpeg" alt="express" width="60" height="40"/> </a>
         <a href="https://opendatakit.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1252722187049431040/xK0XhVuY_400x400.jpg" alt="express" width="40" height="40"/> </a>
@@ -37,7 +38,7 @@
     <a href="http://geoserver.org/" target="_blank"> <img src="https://www.quadratic.be/wp-content/uploads/2020/05/geoserver-300x300.png" alt="express" width="60" height="50"/> </a>
         <a href="https://developers.google.com/kml" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" alt="express" width="40" height="50"/> </a>
          <a href="https://developers.google.com/kml" target="_blank"> <img src="https://faradars.org/wp-content/uploads/2021/08/24/FVGIS9912-svg.svg" alt="express" width="40" height="40"/> </a>
-         <a href="https://www.qgis.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="express" width="40" height="40"/> </a>
+        
        
 </p>
 
