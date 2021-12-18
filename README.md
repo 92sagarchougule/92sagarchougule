@@ -24,7 +24,7 @@
     <a href="https://www.esri.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIs" width="48" height="48"/> </a>
     <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro" target="_blank"> <img src="https://www.farmingdale.edu/information-technology/software/images/arcgispro.png"ArcGIS Pro" width="45" height="45"/> </a> 
         <a href="https://www.autodesk.in/" target="_blank"> <img src="https://play-lh.googleusercontent.com/W1b3d7Rfz-ulxWWhkMl9YLBGtVXgdnWpfmtVFZeBVv8IdMv0A8A7NdBRzdsPIYvAlis=s360-rw" alt="express" width="40" height="40"/> </a>
-         <a href="https://www.safe.com/" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/ed/eddb6ac925e4c6768a9382e21206ec8d.jpeg" alt="express" width="60" height="50"/> </a>
+         <a href="https://www.safe.com/" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/ed/eddb6ac925e4c6768a9382e21206ec8d.jpeg" alt="express" width="60" height="40"/> </a>
     <a href="https://openlayers.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenLayers_logo.svg" alt="express" width="40" height="40"/> </a>
         <a href="https://www.javascript.com/" target="_blank"> <img src="https://learnbatta.com/assets/images/javascript/javascript-logo.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
