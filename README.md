@@ -37,7 +37,7 @@
     <a href="https://geonode.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132843?s=200&v=4" width="40" height="40"/> </a> 
     <a href="http://geoserver.org/" target="_blank"> <img src="https://www.quadratic.be/wp-content/uploads/2020/05/geoserver-300x300.png" alt="express" width="60" height="50"/> </a>
         <a href="https://developers.google.com/kml" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" alt="express" width="40" height="50"/> </a>
-         <a href="https://developers.google.com/kml" target="_blank"> <img src="https://faradars.org/wp-content/uploads/2021/08/24/FVGIS9912-svg.svg" alt="express" width="40" height="40"/> </a>
+         <a href="https://developers.google.com/kml" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="express" width="40" height="40"/> </a>
         
        
 </p>
