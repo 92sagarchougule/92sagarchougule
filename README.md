@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working at **[KSRDPR University, India](https://ksrdpru.ac.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
