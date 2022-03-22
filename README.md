@@ -20,7 +20,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.esri.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIs" width="48" height="48"/> </a>
     <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro" target="_blank"> <img src="https://www.farmingdale.edu/information-technology/software/images/arcgispro.png"ArcGIS Pro" width="45" height="45"/> </a> 
          <a href="https://www.qgis.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="express" width="40" height="40"/> </a>
