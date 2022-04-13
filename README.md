@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sagar</h1>
-<h3>I'm a passionate GIS Developer from India, working as Assistant Professor in the Department of Geoinformatics at the University of Karnataka State Rural Development University, Karnataka. My research interests include Geographic Information System (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., Google Earth Engine) to study environmental change, especially surface water and wetland inundation dynamics. I am a strong advocate of open science and reproducible research. More information about my research and teaching can be found on my personal website and research blog.</h3>
+<h3 align="center">I'm a passionate GIS Developer in the Department of Geoinformatics at the University of Karnataka State Rural Development University, Karnataka. My research interests include Geographic Information System (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, and cloud computing (e.g., Google Earth Engine) to study environmental change, especially surface water and wetland inundation dynamics. I am a strong advocate of open science and reproducible research. More information about my research and teaching can be found on my personal website and research blog.</h3>
 
 
 ## 🙋‍♂️ About Me
