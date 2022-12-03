@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[KSRDPR University, India](https://ksrdpru.ac.in/)**
+- 🔭 I’m currently working at **[ABM,Mumbai, India](https://abmindia.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
