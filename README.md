@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Sagar</h2>
+<h2 align="center">Hi <img src="https://www.kibrispdr.org/data/1781/hello-wave-gif-11.jpg" width="40px">, I'm Sagar</h2>
 <h3 align="center">I'm a passionate GIS Developer from India</h3>
 
 
