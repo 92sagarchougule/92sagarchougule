@@ -81,7 +81,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://in.linkedin.com/in/sagar-chougule-157346124"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "[https://in.linkedin.com/in/sagar-chougule-157346124](https://www.linkedin.com/in/sagar-chougule-4bb484120/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/@92chougulesagar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UCJAaGHFfywEgRbqPDpPYrcA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
