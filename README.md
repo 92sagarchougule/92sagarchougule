@@ -47,7 +47,7 @@
         <a href="https://geopandas.org/" target="_blank"> <img src="https://geopandas.org/en/stable/_images/geopandas_icon.png" alt="express" width="40" height="40"/> </a>
  <a href="https://postgis.net/" target="_blank"> <img src="https://www.paulox.net/images/postgis.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://mapstore2.geosolutionsgroup.com/mapstore/#/" target="_blank"> <img src="https://training.mapstore.geosolutionsgroup.com/_images/training-mapstore-footer.png" alt="express" width="80" height="30"/> </a> 
-  <a href="https://www.tableau.com/" target="_blank"> <img src="[https://training.mapstore.geosolutionsgroup.com/_images/training-mapstore-footer.png](https://miro.medium.com/v2/resize:fit:720/format:webp/1*uL_U8J9gxSv6tPhGIJ9mwQ.png)" alt="express" width="80" height="30"/> </a> 
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://training.mapstore.geosolutionsgroup.com/_images/training-mapstore-footer.png" alt="express" width="80" height="30"/> </a> 
 
   
         <a href="https://www.postman.com" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*EKXCQcWfsWyDhXrVW_4d8Q.png" alt="express" width="40" height="40"/> </a>
