@@ -51,7 +51,7 @@
     <a href="https://www.postman.com" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*EKXCQcWfsWyDhXrVW_4d8Q.png" alt="express" width="40" height="40"/> </a>
      <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://5.imimg.com/data5/HT/HX/YO/GLADMIN-13634783/selection-208-500x500.png" alt="express" width="40" height="40"/> </a>
      <a href="https://pypi.org/project/psycopg2/" target="_blank"> <img src="https://open-telemetry.github.io/opentelemetry-sqlcommenter/images/psycopg2-logo.png" alt="express" width="40" height="40"/> </a>
-      <a href="https://www.esri.com/en-us/arcgis/products/arcgis-enterprise/overview" target="_blank"> <img src="https://i0.wp.com/geoconvergence.com/wp-content/uploads/2022/07/arcgis-enterprise-purple-01.png?resize=1024%2C231&ssl=1" width="80" height="40"/> </a>
+      <a href="https://www.esri.com/en-us/arcgis/products/arcgis-enterprise/overview" target="_blank"> <img src="https://i0.wp.com/geoconvergence.com/wp-content/uploads/2022/07/arcgis-enterprise-purple-01.png?resize=1024%2C231&ssl=1" width="100" height="40"/> </a>
 
        
 </p>
