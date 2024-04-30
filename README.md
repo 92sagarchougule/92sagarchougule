@@ -31,7 +31,7 @@
         <a href="https://www.postgresql.org/" target="_blank"> <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://openlayers.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/OpenLayers_logo.svg" alt="express" width="40" height="40"/> </a>
         <a href="https://www.javascript.com/" target="_blank"> <img src="https://learnbatta.com/assets/images/javascript/javascript-logo.png" alt="express" width="40" height="40"/> </a>
-        <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64-p-800.png" alt="express" width="50" height="30"/> </a>
+        <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://logowik.com/content/uploads/images/microsoft-visual-studio2707.jpg" alt="express" width="50" height="30"/> </a>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002cd563e1cd1cead28_eaadfe64-p-800.png" alt="express" width="70" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
          <a href="https://www.esri.com/" target="ArcPy"> <img src="https://automating-gis-processes.github.io/2016/_images/arcpy-logo.png"width="40" height="40"/> </a> 
