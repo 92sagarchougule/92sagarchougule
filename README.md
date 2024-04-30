@@ -12,9 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://bj0i2ldz26r9ppwbrmvazw-on.drv.tw/M.Sc.Geoinformatics.com/)**
-
-- 📫 How to reach me 92chougulesagar@gmail.com**
+- 📫 How to reach me sagar4gis@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
