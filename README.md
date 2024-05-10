@@ -36,7 +36,7 @@
         <a href="https://www.esri.com/" target="_blank"> <img src="https://desktop.arcgis.com/en/arcmap/10.3/analyze/modelbuilder/GUID-8367A443-45E1-4E97-B17E-628E8F7707CB-web.png"width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://geonode.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/132843?s=200&v=4" width="40" height="40"/> </a> 
     <a href="http://geoserver.org/" target="_blank"> <img src="https://www.quadratic.be/wp-content/uploads/2020/05/geoserver-300x300.png" alt="express" width="60" height="50"/> </a>
         <a href="https://developers.google.com/kml" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Earth_icon.svg" alt="express" width="40" height="50"/> </a>
