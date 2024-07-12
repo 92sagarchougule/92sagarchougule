@@ -72,7 +72,7 @@
 
 <br/>
 <br/>
-<a href="https://github.com/92sagarchougule/github-readme-activity-graph"><img alt="Sagar Chougule's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=92sagarchougule&bg_color=000000&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
+<a href="https://github.com/92sagarchougule/github-readme-activity-graph"><img alt="Sagar Chougule's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=92sagarchougule&bg_color=ff0000&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
 <br/>
 <br/>
 
