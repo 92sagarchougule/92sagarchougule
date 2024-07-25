@@ -46,7 +46,7 @@
  <a href="https://mapstore2.geosolutionsgroup.com/mapstore/#/" target="_blank"> <img src="https://training.mapstore.geosolutionsgroup.com/_images/training-mapstore-footer.png" alt="express" width="80" height="30"/> </a> 
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*uL_U8J9gxSv6tPhGIJ9mwQ.png" alt="express" width="80" height="50"/> </a> 
     <a href="https://www.postman.com" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*EKXCQcWfsWyDhXrVW_4d8Q.png" alt="express" width="40" height="40"/> </a>
-     <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://5.imimg.com/data5/HT/HX/YO/GLADMIN-13634783/selection-208-500x500.png" alt="express" width="40" height="40"/> </a>
+    
      
 
        
