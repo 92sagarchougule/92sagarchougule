@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[ABM Knowledgeware Ltd,Mumbai, India](https://abmindia.com/)**
+- 🔭 I’m currently working at **[ABM Knowledgeware,Mumbai, India](https://abmindia.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
