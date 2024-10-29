@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
-## 🚀 Languages and Tools:
+## 🚀 Language and Tool:
 
 <p align="center"> 
     <a href="https://www.esri.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="ArcGIs" width="48" height="48"/> </a>
