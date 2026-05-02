@@ -19,7 +19,6 @@
 
 - 🔭 **Currently:** GIS Developer at **Tata Consultancy Services (TCS)**.
 - 🚀 **Building:** Geospatial APIs with **Java Spring Boot** and high-performance maps with **MapLibre & Deck.gl**.
-- 🏛️ **Teaching:** Founder of **ViJan Geospatial Academy** (GIS Automation in Marathi).
 - 🌱 **Learning:** Data Structures, Algorithms, and **AWS Cloud Practitioner**.
 - ⚡ **Fun Fact:** I'm a regular at the **GYM** and a passionate gamer.
 
