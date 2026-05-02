@@ -40,29 +40,8 @@
     <img title="Current Coding Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=92sagarchougule&theme=tokyonight&hide_border=true" width="48%" />
   </a>
   <!-- Overall Stats: Summary of your work across the year -->
-  <a href="https://github.com/92sagarchougule">
-    <img alt="Sagar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=92sagarchougule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
 </p>
 
----
-
-### 🚀 Tech Stack
-
-**Frontend Mapping:** `MapLibre GL JS` • `Deck.gl` • `OpenLayers` • `Leaflet`  
-**Backend & Database:** `Java Spring Boot` • `Python (ArcPy)` • `PostgreSQL/PostGIS`  
-**Tools & DevOps:** `Docker` • `AWS` • `Git` • `Postman`
-
----
-
-### 🛠 Recent Coding Metrics & Skills
-
-<p align="center">
-  <!-- Dynamic Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=92sagarchougule&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1128" width="48%" />
-  <!-- Daily Coding Hours (WakaTime) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=92sagarchougule&layout=compact&theme=react&hide_border=true&bg_color=0D1128" width="48%" />
-</p>
 
 #### **Current Sprint Focus (Proficiency)**
 <p align="left">
