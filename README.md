@@ -24,6 +24,18 @@
 
 ---
 
+
+### 🛠 Tech Stack & Daily Work
+
+| Category | Tools I Use Daily |
+| :--- | :--- |
+| **Mapping** | MapLibre GL JS, Deck.gl, OpenLayers, PostGIS |
+| **Backend** | Java Spring Boot, Python (ArcPy), PostgreSQL |
+| **Frontend** | React, JavaScript, HTML5, CSS3 |
+| **DevOps** | Docker, Git, AWS (In-Progress) |
+
+---
+
 ### 📊 Daily Work & Contribution Activity
 *This section tracks the "dots" of work and my daily coding consistency.*
 
@@ -54,13 +66,9 @@
   <img src="https://geps.dev/progress/75?dangerColor=800000&accenColor=008000&speed=1" alt="Spring/PostGIS Progress" />
   <br/>
   <strong>Deck.gl</strong> 
-  
   <br/>
   <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
-
-
    <strong>AWS Cloud</strong> 
-  
   <br/>
   <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
 
