@@ -53,9 +53,18 @@
   <br/>
   <img src="https://geps.dev/progress/75?dangerColor=800000&accenColor=008000&speed=1" alt="Spring/PostGIS Progress" />
   <br/>
-  <strong>Deck.gl & AWS Cloud</strong> 
+  <strong>Deck.gl</strong> 
+  
   <br/>
   <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
+
+
+   <strong>AWS Cloud</strong> 
+  
+  <br/>
+  <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
+
+  
 </p>
 
 <br/>
