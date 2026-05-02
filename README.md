@@ -29,6 +29,7 @@
 
 | Category | Tools I Use Daily |
 | :--- | :--- |
+| **Softwares** | QGIS, ArcGIS, ArcGIS Pro, ArcGIS Enterprise |
 | **Mapping** | MapLibre GL JS, Deck.gl, OpenLayers, PostGIS |
 | **Backend** | Java Spring Boot, Python (ArcPy), PostgreSQL |
 | **Frontend** | React, JavaScript, HTML5, CSS3 |
