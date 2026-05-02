@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src="https://i.pinimg.com/originals/cb/22/60/cb22603604e36d1caab7cc4e729506c9.gif" width="40px"> Hi, I'm Sagar
 </h1>
-<h3 align="center">GIS Developer | Full Stack Engineer | Instructor</h3>
+<h3 align="center">Senior GIS Developer | Full Stack Engineer | Instructor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sagar-chougule-4bb484120/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
