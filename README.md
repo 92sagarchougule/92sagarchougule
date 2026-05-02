@@ -69,7 +69,8 @@
   <strong>Deck.gl</strong> 
   <br/>
   <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
-   <strong>AWS Cloud</strong> 
+  <br/>
+  <strong>AWS Cloud</strong> 
   <br/>
   <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
 
