@@ -33,7 +33,7 @@
 | **Mapping** | MapLibre GL JS, Deck.gl, OpenLayers, PostGIS |
 | **Backend** | Java Spring Boot, Python (ArcPy), PostgreSQL |
 | **Frontend** | React, JavaScript, HTML5, CSS3 |
-| **DevOps** | Docker, Git, AWS (In-Progress) |
+| **DevOps** | Docker, Git, AWS |
 
 ---
 
