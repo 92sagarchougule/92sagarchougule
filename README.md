@@ -55,13 +55,33 @@
 
 ---
 
-### 🛠 Recent Coding Metrics
+### 🛠 Recent Coding Metrics & Skills
+
 <p align="center">
-  <!-- Language Distribution: Shows what technologies you are using most -->
+  <!-- Dynamic Language Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=92sagarchougule&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1128" width="48%" />
-  <!-- If you use WakaTime, this displays exact daily hours worked -->
+  <!-- Daily Coding Hours (WakaTime) -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=92sagarchougule&layout=compact&theme=react&hide_border=true&bg_color=0D1128" width="48%" />
 </p>
+
+#### **Current Sprint Focus (Proficiency)**
+<p align="left">
+  <strong>React & MapLibre</strong> 
+  <br/>
+  <img src="https://geps.dev/progress/85?dangerColor=800000&accenColor=0000FF&speed=1" alt="React/MapLibre Progress" /> 
+  <br/>
+  <strong>Java Spring Boot & PostGIS</strong> 
+  <br/>
+  <img src="https://geps.dev/progress/75?dangerColor=800000&accenColor=008000&speed=1" alt="Spring/PostGIS Progress" />
+  <br/>
+  <strong>Deck.gl & AWS Cloud</strong> 
+  <br/>
+  <img src="https://geps.dev/progress/60?dangerColor=800000&accenColor=FFA500&speed=1" alt="Deckgl/AWS Progress" />
+</p>
+
+<br/>
+
+> **Note:** The "Top Languages" metric displays public repository data, while the **Current Sprint Focus** reflects my active daily development in **Java, React, and Geospatial Visualization.**
 
 ---
 
